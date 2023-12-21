@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50858" started-at="2023-11-19T05:01:31Z" finished-at="2023-11-19T05:02:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50858" started-at="2023-11-19T05:01:31Z" finished-at="2023-11-19T05:02:22Z">
+      <class name="org.project3.Project3">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.project3.Project3@39ba5a14]" name="tc1" is-config="true" duration-ms="43435" started-at="2023-11-19T10:31:31Z" finished-at="2023-11-19T10:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.project3.Project3@39ba5a14]" name="tc2" duration-ms="7053" started-at="2023-11-19T10:32:15Z" finished-at="2023-11-19T10:32:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- org.project3.Project3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
